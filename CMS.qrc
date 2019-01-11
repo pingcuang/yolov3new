@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/CMS">
+        <file>img/icon_close.png</file>
+        <file>img/icon_closeh.png</file>
+        <file>img/icon_closez.png</file>
+        <file>img/icon_down.png</file>
+        <file>img/icon_downh.png</file>
+        <file>img/icon_downz.png</file>
+        <file>img/icon_small.png</file>
+        <file>img/icon_smallh.png</file>
+        <file>img/icon_smallz.png</file>
+        <file>img/icon_monitorListParent.png</file>
+        <file>img/icon_monitorListSub.png</file>
+        <file>img/icon_max.png</file>
+        <file>img/icon_maxh.png</file>
+        <file>qss/CMSqss.css</file>
+        <file>img/setting.png</file>
+    </qresource>
+</RCC>

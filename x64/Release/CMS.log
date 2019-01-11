@@ -1,0 +1,10 @@
+﻿  CMS.cpp
+CMS.cpp(2): warning C4005: “OPENCV”: 宏重定义
+  CMS.cpp(2): note: 命令行参数: 参见前面的“OPENCV”定义
+CMS.cpp(3): warning C4005: “GPU”: 宏重定义
+  CMS.cpp(3): note: 命令行参数: 参见前面的“GPU”定义
+CMS.cpp(22): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  json_vc71_libmt.lib(json_value.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+  正在生成代码
+  已完成代码的生成
+  CMS.vcxproj -> E:\VS\projects\CMS\CMS\x64\Release\CMS.exe

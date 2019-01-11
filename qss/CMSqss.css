@@ -1,0 +1,18 @@
+
+QTreeWidget#treeWidget::item::selection
+{
+    height:30px;
+    color:white;
+}
+
+QTreeWidget#treeWidget
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+QLabel
+{
+    color: white;
+}
